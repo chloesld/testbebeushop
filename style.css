@@ -1,0 +1,164 @@
+h1{
+  color: #2F592B;
+  font-weight: lighter;
+  font-size: 100px;
+}
+
+h2 {
+  font-family:'Ubuntu', sans-serif;
+  color: #2F592B;
+  font-weight: bolder;
+  font-size: 35px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Barlow Semi Condensed', sans-serif;;
+  color: black;
+  font-size: 15px;
+}
+
+h4 {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  color: white;
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+a {
+  color: green;font-weight: bolder;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 30px;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+
+#header{
+
+  text-align: left;
+	background-color: #2F592F;
+  background-size: cover;
+  background-position: left; 
+  margin: ;  
+}
+
+#footer{
+  background-color: #2F592B ;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  background-size: cover;
+  text-align: center;
+  margin: 50px
+  border-color: #2F592B;
+}
+
+#footer{
+  color: white;
+}
+
+
+#catch {
+  background-image: url("images/covercatch.jpg") ;
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+}
+
+#catch p {
+  color: rgb(255,255,255);
+  text-align: center;
+  font-size: 35px;  
+  font-family: 'Ubuntu', sans-serif;
+  text-shadow: 1px 1px 5px black;  
+}
+
+#soustitre1{
+  color: white;
+  font-weight: bolder;
+  text-align: center;
+  font-size: 30px;
+  font-family:'Ubuntu', sans-serif;
+}
+
+#soustitre2{
+  color: white;
+  font-weight: bolder;
+  text-align: center;
+  font-size: 30px;
+  font-family:'Ubuntu', sans-serif;
+}
+#soustitre1{
+  background-color: #2F592B;
+  background-size: cover;
+}
+
+#soustitre2{
+  background-color: #2F592B;
+}
+
+.feature{
+	  text-align: center;
+    font-size: cover;
+    background-size: cover;
+    margin: 20px;
+}
+
+.avis{
+  text-align: center;
+    background-image: url();
+    background-size: cover;
+    margin: 20px
+}
+
+.avis01{
+  text-align: center;
+    background-image: url();
+    background-size: cover;
+    margin: 30px
+}
+
+.avis02{
+  text-align: center;
+    background-image: url();
+    background-size: cover;
+    margin: 30px
+}
+
+
+.text{
+  background-color: #ECE2D0;
+}
+
+.bouton{
+    text-align: center;
+    background-color: ;
+}
+
+label {
+  color: #5E5040;
+  font-size: 25px;
+  margin: 15px;
+  font-family:'Ubuntu', sans-serif;
+}
+
+label button {
+  background-color: yellow;
+}
+
+button {
+  font-size: 20px;
+  color: white;
+  margin: 15px;
+  background-color: #2F592B;
+  border-color: #2F592B;
+}
+
+body
+{
+    background-color: #ECE2D0;
+}
+
+
